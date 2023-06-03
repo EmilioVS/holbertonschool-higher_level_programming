@@ -2,4 +2,4 @@
 str = "Holberton School" 
 print(3 * str)
 str="Holberton"
-print(str[:9])
+print(str)
