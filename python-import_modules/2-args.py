@@ -1,11 +1,5 @@
 #!/usr/bin/python3
 
-#!/usr/bin/python3
-
-# 2-args.py
-
-# Brennan D Baraban <375@holbertonschool.com>
-
 
 
 if __name__ == "__main__":
