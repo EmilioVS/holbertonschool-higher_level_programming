@@ -3,6 +3,7 @@
 Module to Read and print contents of a File
 '''
 
+
 def read_file(filename=""):
     ''' Reads File and prints contents '''
     with open(filename) as open_file:
